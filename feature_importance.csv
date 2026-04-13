@@ -1,0 +1,11 @@
+Feature,Importance
+TotalCharges,0.186
+MonthlyCharges,0.179
+tenure,0.155
+Contract,0.080
+PaymentMethod,0.050
+OnlineSecurity,0.049
+TechSupport,0.044
+gender,0.028
+InternetService,0.028
+OnlineBackup,0.027
